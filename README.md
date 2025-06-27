@@ -4,7 +4,7 @@ This is a very cheapest implementation of an original Xbox USB adapter PCB that 
 
 Gold Edition gerbers should only be used with an ENIG Surface Finish (significantly more expensive).
 
-![Product Image](img/product.jpg?raw=true "Product Image")
+![Product Image](img/product.png?raw=true "Product Image")
 
 ![Designer Image](img/designer.png?raw=true "Designer Image")
 
