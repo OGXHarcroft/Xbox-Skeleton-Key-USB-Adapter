@@ -22,6 +22,6 @@ Defaults are primarily acceptable with your choice of quantity/color (refer to t
 ### Compatible Components
 
 - [USB Connector, Quantity 10/20/30](https://www.aliexpress.com/item/1005006376030261.html)
-- [USB Connectors, Quantity 50](https://www.aliexpress.com/item/2251832715636347.html)
+- [USB Connectors, Quantity 100](https://www.aliexpress.com/item/2251832715636347.html)
 - [USB Flash Drives, Quantity 10](https://www.aliexpress.com/item/1005008132234204.html)
 - [USB Flash Drives, Quantity 50](https://www.aliexpress.com/item/3256805263846258.html)
