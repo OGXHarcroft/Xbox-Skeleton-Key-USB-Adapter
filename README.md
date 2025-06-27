@@ -8,7 +8,7 @@ Gold Edition gerbers should only be used with an ENIG Surface Finish (significan
 
 ![Designer Image](img/designer.png?raw=true "Designer Image")
 
-To order Skeleton Key branded flash drives, ensure the seller offers a free LOGO service then send them logo file with your order number.
+To order Skeleton Key branded flash drives, ensure the seller offers a free LOGO service then send them this logo file with your order number.
 ![Skeleton Key Drive Art Image](img/skeleton_key_logo.png?raw=true "Drive Art")
 
 ### JLCPCB Order Details
