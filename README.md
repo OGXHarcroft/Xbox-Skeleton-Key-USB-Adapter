@@ -1,6 +1,6 @@
 # Xbox-Skeleton-Key-USB-Adapter
 
-This is a very cheapest implementation of an original Xbox USB adapter PCB that plugs directly into the front panel controller ports, modeled after Team Xodus' original version released many years ago. Modified to have clean curves and a wider grip to put insertion and removal force on the PCB instead of the USB port.  If you want to build an [endgame](https://github.com/XboxDev/endgame-exploit)-based software loader package (USB drive included) for under $1 USD in semi-bulk quantities this is a good option.
+This is a very cheap implementation of an original Xbox USB adapter PCB that plugs directly into the front panel controller ports, modeled after Team Xodus' original version released many years ago. Modified to have clean curves and a wider grip to put insertion and removal force on the PCB instead of the USB port.  If you want to build an [endgame](https://github.com/XboxDev/endgame-exploit)-based software loader package (USB drive included) for under $1 USD in semi-bulk quantities this is a good option.
 
 Gold Edition gerbers should only be used with an ENIG Surface Finish (significantly more expensive).
 
